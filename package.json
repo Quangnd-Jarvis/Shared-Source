@@ -1,0 +1,12 @@
+{
+  "name": "com.quangnd.unityanimationpackage",
+  "version": "1.0.0",
+  "displayName": "Unity Animation Package",
+  "description": "A reusable animation toolkit for Unity, providing common utilities and helpers to simplify animation workflows across multiple projects.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nguyen Dang Quang",
+    "email": "nguyenquang2292003@gmail.com",
+    
+  }
+}
