@@ -1,3 +1,9 @@
 {
-	"name": "Unity_Animation_Package.Runtime"
+	"name": "Unity_Animation_Package.Runtime",
+	"references": [
+		"LitMotion",
+		"LitMotion.Extensions",
+		"UniTask",
+		"NaughtyAttributes.Core"
+	]
 }
